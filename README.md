@@ -2,6 +2,8 @@
 
 You can use an [editor on GitHub](https://github.com/jimbo5345/jimbo5345.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+The Purpose of this page is to learn about playing fortnite. The greatest video game in history. Scott sucks at golf. 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
